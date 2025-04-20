@@ -1,0 +1,501 @@
+type,region,crop,season,symptom,disease,recommended_medicine
+crop,Tamil Nadu,Wheat,Rabi,Yellowing leaves,Blight,Plantomycin
+crop,Haryana,Cotton,Kharif,Stunted growth,Blight,Metalaxyl
+crop,Punjab,Maize,Kharif,Yellowing leaves,Fusarium Wilt,Plantomycin
+crop,Punjab,Cotton,Kharif,Stunted growth,Powdery Mildew,Cymoxanil
+crop,Tamil Nadu,Wheat,Rabi,Spots on leaves,Anthracnose,Chlorothalonil
+crop,Tamil Nadu,Rice,Rabi,Stunted growth,Leaf Rust,Tricyclazole
+crop,Tamil Nadu,Rice,Rabi,Spots on leaves,Blight,Plantomycin
+crop,Haryana,Cotton,Kharif,Spots on leaves,Leaf Rust,Tebuconazole
+crop,Tamil Nadu,Cotton,Rabi,Yellowing leaves,Powdery Mildew,Azoxystrobin
+crop,Haryana,Cotton,Rabi,Spots on leaves,Blight,Vitavax
+crop,Punjab,Cotton,Kharif,Stunted growth,Leaf Spot,Mancozeb
+crop,Punjab,Wheat,Rabi,Stunted growth,Blight,Thiram
+crop,Tamil Nadu,Rice,Kharif,Yellowing leaves,Blast,Isoprothiolane
+crop,Haryana,Maize,Kharif,Stunted growth,Blight,Metalaxyl
+crop,Punjab,Wheat,Rabi,Stunted growth,Powdery Mildew,Plantomycin
+crop,Haryana,Wheat,Rabi,Yellowing leaves,Fusarium Wilt,Tricyclazole
+crop,Tamil Nadu,Rice,Rabi,Yellowing leaves,Leaf Rust,Difenoconazole
+crop,Haryana,Cotton,Kharif,Stunted growth,Fusarium Wilt,Carbendazim
+crop,Tamil Nadu,Cotton,Kharif,Yellowing leaves,Anthracnose,Difenoconazole
+crop,Gujarat,Rice,Rabi,Yellowing leaves,Blast,Isoprothiolane
+crop,Haryana,Maize,Rabi,Reddish-brown pustules,Blight,Pyraclostrobin
+crop,Haryana,Rice,Kharif,Spots on leaves,Blight,Myclobutanil
+crop,Punjab,Rice,Rabi,Spots on leaves,Blight,Sulfur spray
+crop,Gujarat,Maize,Rabi,Spots on leaves,Blast,Myclobutanil
+crop,Haryana,Rice,Rabi,Spots on leaves,Blight,Metalaxyl
+crop,Punjab,Rice,Rabi,Yellowing leaves,Powdery Mildew,Vitavax
+crop,Punjab,Rice,Kharif,Reddish-brown pustules,Leaf Spot,Carbendazim
+crop,Haryana,Maize,Kharif,Spots on leaves,Blast,Copper oxychloride
+crop,Haryana,Wheat,Rabi,Spots on leaves,Anthracnose,Chlorothalonil
+crop,Punjab,Maize,Kharif,Reddish-brown pustules,Leaf Spot,Triadimefon
+crop,Punjab,Maize,Rabi,Stunted growth,Fusarium Wilt,Zineb
+crop,Haryana,Wheat,Rabi,Reddish-brown pustules,Blight,Triadimefon
+crop,Tamil Nadu,Wheat,Rabi,Spots on leaves,Fusarium Wilt,Thiophanate methyl
+crop,Punjab,Rice,Kharif,Stunted growth,Blight,Pencycuron
+crop,Punjab,Maize,Rabi,Reddish-brown pustules,Leaf Spot,Mancozeb
+crop,Tamil Nadu,Cotton,Rabi,Spots on leaves,Blast,Triadimefon
+crop,Haryana,Cotton,Rabi,Stunted growth,Blast,Isoprothiolane
+crop,Haryana,Maize,Kharif,Reddish-brown pustules,Powdery Mildew,Azoxystrobin
+crop,Punjab,Cotton,Rabi,Reddish-brown pustules,Anthracnose,Copper oxychloride
+crop,Haryana,Maize,Rabi,Yellowing leaves,Powdery Mildew,Azoxystrobin
+crop,Punjab,Wheat,Rabi,Yellowing leaves,Fusarium Wilt,Tricyclazole
+crop,Haryana,Maize,Rabi,Stunted growth,Anthracnose,Chlorothalonil
+crop,Punjab,Cotton,Rabi,Yellowing leaves,Blight,Zineb
+crop,Haryana,Rice,Kharif,Yellowing leaves,Blast,Thiram
+crop,Haryana,Wheat,Rabi,Yellowing leaves,Fusarium Wilt,Carbendazim
+crop,Gujarat,Wheat,Rabi,Reddish-brown pustules,Blight,Metalaxyl
+crop,Punjab,Maize,Kharif,Reddish-brown pustules,Leaf Spot,Mancozeb
+crop,Tamil Nadu,Maize,Rabi,Stunted growth,Leaf Spot,Mancozeb
+crop,Tamil Nadu,Wheat,Kharif,Yellowing leaves,Leaf Spot,Fludioxonil
+crop,Haryana,Maize,Kharif,Spots on leaves,Fusarium Wilt,Carbendazim
+crop,Haryana,Wheat,Rabi,Stunted growth,Blight,Metalaxyl
+crop,Haryana,Rice,Rabi,Reddish-brown pustules,Leaf Rust,Thiram
+crop,Tamil Nadu,Wheat,Kharif,Reddish-brown pustules,Leaf Rust,Hexaconazole
+crop,Tamil Nadu,Wheat,Rabi,Reddish-brown pustules,Blast,Isoprothiolane
+crop,Haryana,Wheat,Rabi,Stunted growth,Anthracnose,Thiram
+crop,Gujarat,Wheat,Kharif,Yellowing leaves,Powdery Mildew,Azoxystrobin
+crop,Tamil Nadu,Cotton,Kharif,Stunted growth,Blast,Cymoxanil
+crop,Tamil Nadu,Rice,Rabi,Reddish-brown pustules,Fusarium Wilt,Carbendazim
+crop,Tamil Nadu,Cotton,Kharif,Spots on leaves,Powdery Mildew,Copper oxychloride
+crop,Punjab,Wheat,Rabi,Yellowing leaves,Blight,Metalaxyl
+crop,Punjab,Rice,Rabi,Stunted growth,Fusarium Wilt,Zineb
+crop,Punjab,Wheat,Rabi,Spots on leaves,Leaf Spot,Trichoderma viride
+crop,Haryana,Maize,Rabi,Yellowing leaves,Leaf Spot,Difenoconazole
+crop,Gujarat,Cotton,Rabi,Yellowing leaves,Blight,Zineb
+crop,Haryana,Rice,Kharif,Yellowing leaves,Blight,Metalaxyl
+crop,Gujarat,Wheat,Kharif,Spots on leaves,Fusarium Wilt,Propiconazole
+crop,Punjab,Maize,Rabi,Spots on leaves,Powdery Mildew,Vitavax
+crop,Gujarat,Rice,Rabi,Yellowing leaves,Blight,Propiconazole
+crop,Haryana,Cotton,Kharif,Stunted growth,Anthracnose,Validamycin
+crop,Haryana,Wheat,Kharif,Stunted growth,Leaf Rust,Tricyclazole
+crop,Tamil Nadu,Maize,Rabi,Yellowing leaves,Blight,Myclobutanil
+crop,Gujarat,Cotton,Rabi,Stunted growth,Blast,Triadimefon
+crop,Gujarat,Wheat,Rabi,Stunted growth,Leaf Spot,Sulfur spray
+crop,Tamil Nadu,Wheat,Kharif,Stunted growth,Powdery Mildew,Pyraclostrobin
+crop,Tamil Nadu,Rice,Kharif,Reddish-brown pustules,Blight,Difenoconazole
+crop,Haryana,Rice,Kharif,Stunted growth,Leaf Rust,Pyraclostrobin
+crop,Tamil Nadu,Maize,Rabi,Spots on leaves,Anthracnose,Trichoderma viride
+crop,Punjab,Rice,Rabi,Spots on leaves,Powdery Mildew,Azoxystrobin
+crop,Punjab,Wheat,Kharif,Spots on leaves,Anthracnose,Vitavax
+crop,Haryana,Maize,Rabi,Stunted growth,Leaf Rust,Vitavax
+crop,Tamil Nadu,Maize,Kharif,Stunted growth,Powdery Mildew,Cymoxanil
+crop,Haryana,Maize,Kharif,Reddish-brown pustules,Blight,Metalaxyl
+crop,Tamil Nadu,Maize,Rabi,Yellowing leaves,Anthracnose,Zineb
+crop,Punjab,Maize,Kharif,Reddish-brown pustules,Blast,Pencycuron
+crop,Haryana,Wheat,Kharif,Reddish-brown pustules,Leaf Spot,Difenoconazole
+crop,Haryana,Rice,Kharif,Stunted growth,Anthracnose,Chlorothalonil
+crop,Punjab,Maize,Rabi,Stunted growth,Powdery Mildew,Thiram
+crop,Gujarat,Maize,Rabi,Yellowing leaves,Blast,Fludioxonil
+crop,Punjab,Cotton,Rabi,Yellowing leaves,Fusarium Wilt,Difenoconazole
+crop,Gujarat,Maize,Rabi,Yellowing leaves,Leaf Spot,Sulfur spray
+crop,Gujarat,Wheat,Rabi,Reddish-brown pustules,Blight,Tricyclazole
+crop,Punjab,Cotton,Rabi,Yellowing leaves,Blast,Zineb
+crop,Gujarat,Wheat,Rabi,Yellowing leaves,Leaf Spot,Plantomycin
+crop,Gujarat,Wheat,Kharif,Stunted growth,Blast,Triadimefon
+crop,Punjab,Cotton,Kharif,Yellowing leaves,Leaf Rust,Fludioxonil
+crop,Tamil Nadu,Maize,Kharif,Spots on leaves,Leaf Rust,Myclobutanil
+crop,Tamil Nadu,Wheat,Kharif,Spots on leaves,Blight,Metalaxyl
+crop,Tamil Nadu,Cotton,Rabi,Reddish-brown pustules,Blight,Metalaxyl
+crop,Haryana,Rice,Rabi,Spots on leaves,Powdery Mildew,Thiophanate methyl
+crop,Haryana,Wheat,Kharif,Reddish-brown pustules,Leaf Spot,Mancozeb
+crop,Gujarat,Maize,Rabi,Stunted growth,Blight,Validamycin
+crop,Punjab,Maize,Kharif,Stunted growth,Powdery Mildew,Thiophanate methyl
+crop,Punjab,Maize,Rabi,Reddish-brown pustules,Fusarium Wilt,Carbendazim
+crop,Haryana,Cotton,Kharif,Spots on leaves,Fusarium Wilt,Difenoconazole
+crop,Haryana,Wheat,Rabi,Stunted growth,Anthracnose,Triadimefon
+crop,Tamil Nadu,Rice,Kharif,Reddish-brown pustules,Powdery Mildew,Azoxystrobin
+crop,Gujarat,Rice,Kharif,Spots on leaves,Fusarium Wilt,Pyraclostrobin
+crop,Tamil Nadu,Cotton,Rabi,Yellowing leaves,Blast,Streptocycline
+crop,Haryana,Rice,Rabi,Stunted growth,Blight,Triadimefon
+crop,Haryana,Cotton,Rabi,Yellowing leaves,Blight,Hexaconazole
+crop,Gujarat,Wheat,Kharif,Stunted growth,Blight,Hexaconazole
+crop,Gujarat,Maize,Kharif,Yellowing leaves,Powdery Mildew,Fludioxonil
+crop,Tamil Nadu,Cotton,Rabi,Spots on leaves,Blight,Triadimefon
+crop,Haryana,Rice,Kharif,Stunted growth,Fusarium Wilt,Carbendazim
+crop,Haryana,Cotton,Kharif,Spots on leaves,Powdery Mildew,Vitavax
+crop,Tamil Nadu,Wheat,Rabi,Yellowing leaves,Powdery Mildew,Sulfur spray
+crop,Punjab,Cotton,Rabi,Reddish-brown pustules,Leaf Spot,Validamycin
+crop,Punjab,Cotton,Rabi,Yellowing leaves,Anthracnose,Validamycin
+crop,Tamil Nadu,Cotton,Rabi,Yellowing leaves,Leaf Rust,Tebuconazole
+crop,Haryana,Maize,Kharif,Stunted growth,Leaf Spot,Propiconazole
+crop,Gujarat,Rice,Rabi,Yellowing leaves,Leaf Rust,Streptocycline
+crop,Punjab,Maize,Rabi,Stunted growth,Leaf Spot,Pencycuron
+crop,Gujarat,Rice,Kharif,Spots on leaves,Fusarium Wilt,Difenoconazole
+crop,Haryana,Cotton,Kharif,Stunted growth,Blight,Cymoxanil
+crop,Punjab,Rice,Kharif,Yellowing leaves,Leaf Rust,Streptocycline
+crop,Gujarat,Cotton,Rabi,Reddish-brown pustules,Powdery Mildew,Streptocycline
+crop,Gujarat,Rice,Kharif,Spots on leaves,Anthracnose,Fludioxonil
+crop,Haryana,Maize,Kharif,Stunted growth,Leaf Rust,Copper oxychloride
+crop,Haryana,Cotton,Kharif,Reddish-brown pustules,Leaf Rust,Hexaconazole
+crop,Haryana,Maize,Kharif,Reddish-brown pustules,Leaf Spot,Triadimefon
+crop,Punjab,Maize,Rabi,Reddish-brown pustules,Fusarium Wilt,Carbendazim
+crop,Tamil Nadu,Cotton,Rabi,Reddish-brown pustules,Leaf Rust,Tebuconazole
+crop,Tamil Nadu,Rice,Rabi,Stunted growth,Leaf Rust,Zineb
+crop,Haryana,Wheat,Rabi,Stunted growth,Leaf Spot,Sulfur spray
+crop,Punjab,Cotton,Rabi,Reddish-brown pustules,Leaf Spot,Hexaconazole
+crop,Haryana,Maize,Kharif,Yellowing leaves,Powdery Mildew,Azoxystrobin
+crop,Gujarat,Cotton,Kharif,Reddish-brown pustules,Powdery Mildew,Thiram
+crop,Punjab,Rice,Rabi,Reddish-brown pustules,Fusarium Wilt,Carbendazim
+crop,Tamil Nadu,Cotton,Kharif,Stunted growth,Leaf Spot,Mancozeb
+crop,Gujarat,Rice,Rabi,Reddish-brown pustules,Blast,Trichoderma viride
+crop,Gujarat,Wheat,Kharif,Reddish-brown pustules,Powdery Mildew,Azoxystrobin
+crop,Tamil Nadu,Rice,Kharif,Stunted growth,Blast,Copper oxychloride
+crop,Gujarat,Rice,Kharif,Reddish-brown pustules,Blight,Zineb
+crop,Haryana,Wheat,Kharif,Spots on leaves,Anthracnose,Chlorothalonil
+crop,Tamil Nadu,Wheat,Kharif,Spots on leaves,Blast,Trichoderma viride
+crop,Punjab,Cotton,Rabi,Stunted growth,Powdery Mildew,Trichoderma viride
+crop,Haryana,Wheat,Rabi,Yellowing leaves,Fusarium Wilt,Carbendazim
+crop,Haryana,Rice,Rabi,Reddish-brown pustules,Powdery Mildew,Streptocycline
+crop,Punjab,Maize,Kharif,Stunted growth,Leaf Rust,Trichoderma viride
+crop,Haryana,Wheat,Kharif,Spots on leaves,Powdery Mildew,Fludioxonil
+crop,Tamil Nadu,Wheat,Kharif,Spots on leaves,Leaf Spot,Mancozeb
+crop,Punjab,Maize,Rabi,Stunted growth,Leaf Rust,Tebuconazole
+crop,Tamil Nadu,Wheat,Rabi,Spots on leaves,Leaf Rust,Propiconazole
+crop,Gujarat,Cotton,Rabi,Stunted growth,Leaf Spot,Mancozeb
+crop,Punjab,Cotton,Kharif,Yellowing leaves,Powdery Mildew,Vitavax
+crop,Tamil Nadu,Wheat,Kharif,Reddish-brown pustules,Blight,Myclobutanil
+crop,Tamil Nadu,Maize,Rabi,Yellowing leaves,Leaf Spot,Mancozeb
+crop,Gujarat,Cotton,Kharif,Spots on leaves,Fusarium Wilt,Streptocycline
+crop,Haryana,Cotton,Rabi,Stunted growth,Blast,Isoprothiolane
+crop,Gujarat,Cotton,Rabi,Stunted growth,Powdery Mildew,Azoxystrobin
+crop,Punjab,Rice,Rabi,Stunted growth,Leaf Rust,Tebuconazole
+crop,Tamil Nadu,Maize,Kharif,Spots on leaves,Leaf Rust,Difenoconazole
+crop,Tamil Nadu,Wheat,Kharif,Spots on leaves,Anthracnose,Fludioxonil
+crop,Gujarat,Cotton,Kharif,Stunted growth,Fusarium Wilt,Carbendazim
+crop,Gujarat,Maize,Kharif,Yellowing leaves,Blast,Thiophanate methyl
+crop,Punjab,Rice,Kharif,Stunted growth,Anthracnose,Zineb
+crop,Tamil Nadu,Cotton,Rabi,Stunted growth,Fusarium Wilt,Carbendazim
+crop,Haryana,Cotton,Kharif,Stunted growth,Leaf Spot,Mancozeb
+crop,Haryana,Rice,Kharif,Spots on leaves,Powdery Mildew,Vitavax
+crop,Tamil Nadu,Rice,Rabi,Reddish-brown pustules,Leaf Rust,Tebuconazole
+crop,Punjab,Rice,Rabi,Reddish-brown pustules,Blight,Propiconazole
+crop,Tamil Nadu,Rice,Kharif,Spots on leaves,Blight,Cymoxanil
+crop,Gujarat,Wheat,Kharif,Spots on leaves,Anthracnose,Copper oxychloride
+crop,Gujarat,Rice,Rabi,Yellowing leaves,Leaf Rust,Tebuconazole
+crop,Tamil Nadu,Cotton,Rabi,Reddish-brown pustules,Leaf Rust,Tebuconazole
+crop,Haryana,Maize,Rabi,Yellowing leaves,Anthracnose,Pencycuron
+crop,Haryana,Wheat,Kharif,Reddish-brown pustules,Fusarium Wilt,Plantomycin
+crop,Punjab,Rice,Rabi,Spots on leaves,Leaf Rust,Thiram
+crop,Haryana,Wheat,Rabi,Spots on leaves,Anthracnose,Cymoxanil
+crop,Gujarat,Rice,Kharif,Stunted growth,Anthracnose,Plantomycin
+crop,Haryana,Wheat,Rabi,Stunted growth,Leaf Spot,Tricyclazole
+crop,Punjab,Wheat,Rabi,Spots on leaves,Fusarium Wilt,Thiram
+crop,Punjab,Wheat,Kharif,Spots on leaves,Blast,Isoprothiolane
+crop,Gujarat,Maize,Kharif,Spots on leaves,Fusarium Wilt,Sulfur spray
+crop,Tamil Nadu,Wheat,Kharif,Stunted growth,Blight,Vitavax
+crop,Punjab,Maize,Rabi,Yellowing leaves,Leaf Spot,Hexaconazole
+crop,Punjab,Rice,Rabi,Spots on leaves,Blight,Plantomycin
+crop,Punjab,Maize,Rabi,Stunted growth,Powdery Mildew,Azoxystrobin
+crop,Tamil Nadu,Wheat,Kharif,Reddish-brown pustules,Fusarium Wilt,Copper oxychloride
+crop,Gujarat,Rice,Rabi,Yellowing leaves,Leaf Spot,Pencycuron
+crop,Tamil Nadu,Wheat,Rabi,Spots on leaves,Anthracnose,Metalaxyl
+crop,Haryana,Rice,Rabi,Reddish-brown pustules,Leaf Spot,Plantomycin
+crop,Punjab,Wheat,Rabi,Spots on leaves,Blast,Isoprothiolane
+crop,Punjab,Maize,Rabi,Stunted growth,Blast,Sulfur spray
+crop,Gujarat,Cotton,Kharif,Reddish-brown pustules,Leaf Rust,Tebuconazole
+crop,Tamil Nadu,Rice,Rabi,Yellowing leaves,Leaf Rust,Validamycin
+crop,Gujarat,Cotton,Kharif,Spots on leaves,Leaf Rust,Cymoxanil
+crop,Haryana,Cotton,Rabi,Reddish-brown pustules,Anthracnose,Chlorothalonil
+crop,Punjab,Wheat,Kharif,Reddish-brown pustules,Leaf Rust,Cymoxanil
+crop,Tamil Nadu,Rice,Rabi,Reddish-brown pustules,Blast,Plantomycin
+crop,Punjab,Wheat,Rabi,Stunted growth,Blast,Vitavax
+crop,Gujarat,Cotton,Rabi,Stunted growth,Blight,Metalaxyl
+crop,Gujarat,Maize,Rabi,Spots on leaves,Powdery Mildew,Validamycin
+crop,Tamil Nadu,Maize,Rabi,Reddish-brown pustules,Blight,Pencycuron
+crop,Haryana,Cotton,Rabi,Yellowing leaves,Fusarium Wilt,Pencycuron
+crop,Gujarat,Cotton,Rabi,Spots on leaves,Leaf Rust,Copper oxychloride
+crop,Gujarat,Rice,Kharif,Yellowing leaves,Leaf Rust,Streptocycline
+crop,Gujarat,Maize,Kharif,Reddish-brown pustules,Blight,Metalaxyl
+crop,Haryana,Rice,Rabi,Reddish-brown pustules,Leaf Spot,Zineb
+crop,Haryana,Cotton,Rabi,Yellowing leaves,Fusarium Wilt,Myclobutanil
+crop,Punjab,Rice,Rabi,Stunted growth,Fusarium Wilt,Validamycin
+crop,Punjab,Cotton,Rabi,Stunted growth,Leaf Rust,Tebuconazole
+crop,Punjab,Rice,Rabi,Reddish-brown pustules,Leaf Spot,Difenoconazole
+crop,Gujarat,Maize,Rabi,Spots on leaves,Leaf Spot,Pyraclostrobin
+crop,Tamil Nadu,Cotton,Rabi,Yellowing leaves,Powdery Mildew,Trichoderma viride
+crop,Haryana,Maize,Rabi,Yellowing leaves,Blight,Myclobutanil
+crop,Punjab,Wheat,Kharif,Spots on leaves,Blast,Isoprothiolane
+crop,Tamil Nadu,Wheat,Rabi,Reddish-brown pustules,Blight,Streptocycline
+crop,Haryana,Rice,Kharif,Yellowing leaves,Powdery Mildew,Myclobutanil
+crop,Gujarat,Cotton,Kharif,Yellowing leaves,Anthracnose,Validamycin
+crop,Gujarat,Wheat,Kharif,Stunted growth,Blight,Tricyclazole
+crop,Punjab,Cotton,Rabi,Spots on leaves,Powdery Mildew,Sulfur spray
+crop,Gujarat,Rice,Rabi,Stunted growth,Powdery Mildew,Propiconazole
+crop,Gujarat,Cotton,Rabi,Spots on leaves,Leaf Rust,Thiram
+crop,Haryana,Wheat,Rabi,Spots on leaves,Leaf Rust,Hexaconazole
+crop,Tamil Nadu,Cotton,Rabi,Stunted growth,Fusarium Wilt,Plantomycin
+crop,Tamil Nadu,Rice,Rabi,Spots on leaves,Fusarium Wilt,Validamycin
+crop,Gujarat,Wheat,Kharif,Yellowing leaves,Leaf Rust,Thiophanate methyl
+crop,Haryana,Maize,Rabi,Reddish-brown pustules,Leaf Rust,Sulfur spray
+crop,Punjab,Maize,Kharif,Spots on leaves,Powdery Mildew,Azoxystrobin
+crop,Gujarat,Wheat,Rabi,Stunted growth,Leaf Rust,Tebuconazole
+crop,Gujarat,Wheat,Kharif,Stunted growth,Blight,Metalaxyl
+crop,Tamil Nadu,Wheat,Rabi,Reddish-brown pustules,Blast,Thiophanate methyl
+crop,Tamil Nadu,Rice,Kharif,Stunted growth,Leaf Spot,Mancozeb
+crop,Gujarat,Cotton,Rabi,Reddish-brown pustules,Anthracnose,Plantomycin
+crop,Gujarat,Cotton,Kharif,Spots on leaves,Fusarium Wilt,Myclobutanil
+crop,Tamil Nadu,Maize,Rabi,Stunted growth,Fusarium Wilt,Triadimefon
+crop,Haryana,Rice,Kharif,Reddish-brown pustules,Anthracnose,Cymoxanil
+crop,Tamil Nadu,Wheat,Kharif,Reddish-brown pustules,Anthracnose,Cymoxanil
+crop,Haryana,Maize,Rabi,Stunted growth,Leaf Spot,Pencycuron
+crop,Tamil Nadu,Maize,Kharif,Stunted growth,Leaf Rust,Tricyclazole
+crop,Tamil Nadu,Maize,Rabi,Reddish-brown pustules,Blight,Thiram
+crop,Tamil Nadu,Cotton,Rabi,Spots on leaves,Fusarium Wilt,Thiophanate methyl
+crop,Tamil Nadu,Wheat,Kharif,Spots on leaves,Leaf Spot,Mancozeb
+crop,Haryana,Rice,Kharif,Stunted growth,Leaf Rust,Tricyclazole
+crop,Punjab,Maize,Kharif,Stunted growth,Anthracnose,Chlorothalonil
+crop,Punjab,Cotton,Kharif,Stunted growth,Blight,Metalaxyl
+crop,Tamil Nadu,Cotton,Rabi,Spots on leaves,Fusarium Wilt,Propiconazole
+crop,Haryana,Rice,Kharif,Yellowing leaves,Fusarium Wilt,Difenoconazole
+crop,Tamil Nadu,Cotton,Rabi,Stunted growth,Blast,Pencycuron
+crop,Punjab,Wheat,Rabi,Reddish-brown pustules,Fusarium Wilt,Zineb
+crop,Gujarat,Cotton,Kharif,Stunted growth,Powdery Mildew,Pyraclostrobin
+crop,Gujarat,Maize,Kharif,Spots on leaves,Powdery Mildew,Zineb
+crop,Gujarat,Wheat,Kharif,Spots on leaves,Leaf Spot,Copper oxychloride
+crop,Gujarat,Cotton,Rabi,Reddish-brown pustules,Leaf Spot,Pyraclostrobin
+crop,Gujarat,Wheat,Kharif,Stunted growth,Fusarium Wilt,Fludioxonil
+crop,Tamil Nadu,Rice,Kharif,Reddish-brown pustules,Fusarium Wilt,Cymoxanil
+crop,Gujarat,Maize,Kharif,Yellowing leaves,Anthracnose,Tricyclazole
+crop,Haryana,Rice,Rabi,Spots on leaves,Powdery Mildew,Cymoxanil
+crop,Punjab,Wheat,Rabi,Stunted growth,Powdery Mildew,Thiophanate methyl
+crop,Tamil Nadu,Wheat,Kharif,Spots on leaves,Powdery Mildew,Sulfur spray
+crop,Tamil Nadu,Rice,Kharif,Reddish-brown pustules,Leaf Rust,Tebuconazole
+crop,Haryana,Maize,Rabi,Stunted growth,Blight,Plantomycin
+crop,Haryana,Cotton,Kharif,Spots on leaves,Anthracnose,Chlorothalonil
+crop,Haryana,Rice,Rabi,Reddish-brown pustules,Blight,Hexaconazole
+crop,Tamil Nadu,Wheat,Rabi,Stunted growth,Leaf Spot,Validamycin
+crop,Haryana,Wheat,Kharif,Reddish-brown pustules,Anthracnose,Thiophanate methyl
+crop,Gujarat,Wheat,Kharif,Stunted growth,Anthracnose,Chlorothalonil
+crop,Punjab,Rice,Rabi,Reddish-brown pustules,Blast,Isoprothiolane
+crop,Tamil Nadu,Rice,Rabi,Stunted growth,Leaf Rust,Tebuconazole
+crop,Haryana,Rice,Rabi,Stunted growth,Fusarium Wilt,Thiram
+crop,Haryana,Wheat,Kharif,Stunted growth,Blight,Copper oxychloride
+crop,Tamil Nadu,Maize,Rabi,Stunted growth,Leaf Spot,Validamycin
+crop,Punjab,Cotton,Kharif,Yellowing leaves,Powdery Mildew,Pyraclostrobin
+crop,Gujarat,Maize,Kharif,Spots on leaves,Anthracnose,Pyraclostrobin
+crop,Punjab,Rice,Kharif,Stunted growth,Blast,Myclobutanil
+crop,Haryana,Rice,Rabi,Spots on leaves,Blight,Tricyclazole
+crop,Punjab,Wheat,Kharif,Spots on leaves,Blight,Tricyclazole
+crop,Tamil Nadu,Wheat,Kharif,Spots on leaves,Leaf Spot,Sulfur spray
+crop,Gujarat,Maize,Rabi,Reddish-brown pustules,Leaf Rust,Tebuconazole
+crop,Gujarat,Cotton,Kharif,Spots on leaves,Leaf Spot,Pyraclostrobin
+crop,Tamil Nadu,Cotton,Kharif,Spots on leaves,Powdery Mildew,Streptocycline
+crop,Haryana,Wheat,Kharif,Yellowing leaves,Blast,Fludioxonil
+crop,Haryana,Wheat,Kharif,Stunted growth,Leaf Spot,Streptocycline
+crop,Haryana,Wheat,Kharif,Spots on leaves,Leaf Spot,Hexaconazole
+crop,Tamil Nadu,Rice,Kharif,Spots on leaves,Powdery Mildew,Fludioxonil
+crop,Haryana,Maize,Rabi,Reddish-brown pustules,Blight,Pyraclostrobin
+crop,Punjab,Wheat,Kharif,Spots on leaves,Leaf Rust,Thiophanate methyl
+crop,Punjab,Cotton,Rabi,Stunted growth,Blight,Plantomycin
+crop,Haryana,Rice,Kharif,Yellowing leaves,Blight,Pyraclostrobin
+crop,Haryana,Cotton,Kharif,Reddish-brown pustules,Blast,Myclobutanil
+crop,Haryana,Cotton,Kharif,Yellowing leaves,Leaf Spot,Pyraclostrobin
+crop,Punjab,Maize,Kharif,Spots on leaves,Blast,Isoprothiolane
+crop,Haryana,Maize,Kharif,Reddish-brown pustules,Blight,Triadimefon
+crop,Haryana,Maize,Kharif,Spots on leaves,Leaf Rust,Tebuconazole
+crop,Punjab,Maize,Kharif,Stunted growth,Blight,Pencycuron
+crop,Punjab,Cotton,Kharif,Yellowing leaves,Powdery Mildew,Difenoconazole
+crop,Gujarat,Rice,Rabi,Spots on leaves,Blast,Thiophanate methyl
+crop,Haryana,Rice,Rabi,Yellowing leaves,Blast,Cymoxanil
+crop,Punjab,Maize,Rabi,Stunted growth,Blight,Zineb
+crop,Punjab,Wheat,Kharif,Stunted growth,Blight,Fludioxonil
+crop,Tamil Nadu,Cotton,Kharif,Spots on leaves,Leaf Rust,Streptocycline
+crop,Haryana,Maize,Kharif,Yellowing leaves,Leaf Rust,Difenoconazole
+crop,Haryana,Maize,Kharif,Reddish-brown pustules,Leaf Spot,Pencycuron
+crop,Haryana,Maize,Kharif,Spots on leaves,Fusarium Wilt,Hexaconazole
+crop,Punjab,Wheat,Kharif,Spots on leaves,Leaf Spot,Thiram
+crop,Gujarat,Rice,Rabi,Spots on leaves,Leaf Rust,Trichoderma viride
+crop,Tamil Nadu,Rice,Kharif,Spots on leaves,Blast,Streptocycline
+crop,Haryana,Maize,Rabi,Reddish-brown pustules,Leaf Rust,Tebuconazole
+crop,Tamil Nadu,Cotton,Rabi,Spots on leaves,Leaf Rust,Tebuconazole
+crop,Haryana,Wheat,Rabi,Yellowing leaves,Leaf Rust,Myclobutanil
+crop,Haryana,Maize,Kharif,Stunted growth,Powdery Mildew,Streptocycline
+crop,Punjab,Maize,Kharif,Stunted growth,Blast,Isoprothiolane
+crop,Punjab,Maize,Rabi,Reddish-brown pustules,Blast,Isoprothiolane
+crop,Punjab,Rice,Rabi,Spots on leaves,Leaf Rust,Hexaconazole
+crop,Haryana,Rice,Kharif,Reddish-brown pustules,Blast,Sulfur spray
+crop,Punjab,Rice,Kharif,Stunted growth,Blast,Isoprothiolane
+crop,Haryana,Wheat,Kharif,Reddish-brown pustules,Anthracnose,Chlorothalonil
+crop,Tamil Nadu,Maize,Rabi,Reddish-brown pustules,Blast,Plantomycin
+crop,Haryana,Cotton,Kharif,Reddish-brown pustules,Blast,Triadimefon
+crop,Tamil Nadu,Cotton,Rabi,Yellowing leaves,Leaf Rust,Hexaconazole
+crop,Haryana,Maize,Kharif,Yellowing leaves,Leaf Rust,Vitavax
+crop,Punjab,Maize,Kharif,Yellowing leaves,Leaf Rust,Propiconazole
+crop,Gujarat,Wheat,Kharif,Stunted growth,Leaf Rust,Vitavax
+crop,Haryana,Maize,Kharif,Reddish-brown pustules,Powdery Mildew,Azoxystrobin
+crop,Gujarat,Cotton,Rabi,Spots on leaves,Blight,Sulfur spray
+crop,Tamil Nadu,Wheat,Kharif,Yellowing leaves,Blight,Metalaxyl
+crop,Haryana,Cotton,Rabi,Spots on leaves,Anthracnose,Validamycin
+crop,Haryana,Maize,Rabi,Reddish-brown pustules,Leaf Spot,Thiram
+crop,Gujarat,Maize,Rabi,Stunted growth,Powdery Mildew,Tricyclazole
+crop,Haryana,Cotton,Kharif,Stunted growth,Leaf Rust,Cymoxanil
+crop,Gujarat,Rice,Rabi,Yellowing leaves,Leaf Spot,Mancozeb
+crop,Haryana,Maize,Rabi,Stunted growth,Fusarium Wilt,Carbendazim
+crop,Punjab,Rice,Rabi,Spots on leaves,Fusarium Wilt,Carbendazim
+crop,Punjab,Rice,Kharif,Stunted growth,Anthracnose,Pencycuron
+crop,Tamil Nadu,Rice,Kharif,Stunted growth,Leaf Rust,Hexaconazole
+crop,Haryana,Rice,Kharif,Spots on leaves,Blast,Isoprothiolane
+crop,Haryana,Cotton,Rabi,Stunted growth,Fusarium Wilt,Myclobutanil
+crop,Tamil Nadu,Cotton,Kharif,Yellowing leaves,Powdery Mildew,Streptocycline
+crop,Gujarat,Cotton,Rabi,Yellowing leaves,Anthracnose,Chlorothalonil
+crop,Tamil Nadu,Maize,Rabi,Spots on leaves,Anthracnose,Propiconazole
+crop,Punjab,Rice,Kharif,Stunted growth,Fusarium Wilt,Validamycin
+crop,Gujarat,Rice,Kharif,Stunted growth,Powdery Mildew,Zineb
+crop,Gujarat,Rice,Kharif,Reddish-brown pustules,Powdery Mildew,Tricyclazole
+crop,Haryana,Maize,Rabi,Yellowing leaves,Blast,Pencycuron
+crop,Gujarat,Cotton,Kharif,Spots on leaves,Anthracnose,Propiconazole
+crop,Gujarat,Cotton,Kharif,Stunted growth,Anthracnose,Fludioxonil
+crop,Haryana,Wheat,Kharif,Spots on leaves,Fusarium Wilt,Fludioxonil
+crop,Tamil Nadu,Cotton,Rabi,Reddish-brown pustules,Fusarium Wilt,Copper oxychloride
+crop,Punjab,Cotton,Rabi,Yellowing leaves,Blast,Sulfur spray
+crop,Haryana,Maize,Kharif,Yellowing leaves,Powdery Mildew,Trichoderma viride
+crop,Punjab,Wheat,Kharif,Spots on leaves,Blast,Isoprothiolane
+crop,Gujarat,Cotton,Kharif,Yellowing leaves,Leaf Spot,Mancozeb
+crop,Gujarat,Maize,Rabi,Spots on leaves,Leaf Spot,Trichoderma viride
+crop,Gujarat,Rice,Rabi,Reddish-brown pustules,Anthracnose,Thiophanate methyl
+crop,Haryana,Rice,Rabi,Spots on leaves,Anthracnose,Chlorothalonil
+crop,Tamil Nadu,Rice,Rabi,Yellowing leaves,Anthracnose,Streptocycline
+crop,Tamil Nadu,Rice,Rabi,Yellowing leaves,Powdery Mildew,Fludioxonil
+crop,Punjab,Cotton,Kharif,Stunted growth,Blight,Copper oxychloride
+crop,Punjab,Wheat,Rabi,Yellowing leaves,Blast,Pencycuron
+crop,Tamil Nadu,Maize,Rabi,Yellowing leaves,Anthracnose,Chlorothalonil
+crop,Gujarat,Maize,Kharif,Yellowing leaves,Leaf Spot,Pyraclostrobin
+crop,Haryana,Maize,Kharif,Reddish-brown pustules,Anthracnose,Copper oxychloride
+crop,Tamil Nadu,Wheat,Rabi,Spots on leaves,Powdery Mildew,Azoxystrobin
+crop,Gujarat,Cotton,Rabi,Reddish-brown pustules,Anthracnose,Propiconazole
+crop,Tamil Nadu,Rice,Rabi,Spots on leaves,Fusarium Wilt,Carbendazim
+crop,Gujarat,Maize,Rabi,Spots on leaves,Blast,Trichoderma viride
+crop,Gujarat,Maize,Rabi,Yellowing leaves,Leaf Rust,Triadimefon
+crop,Gujarat,Wheat,Rabi,Yellowing leaves,Leaf Rust,Copper oxychloride
+crop,Haryana,Maize,Kharif,Reddish-brown pustules,Blast,Thiophanate methyl
+crop,Punjab,Maize,Kharif,Spots on leaves,Fusarium Wilt,Carbendazim
+crop,Punjab,Wheat,Kharif,Stunted growth,Leaf Spot,Fludioxonil
+crop,Punjab,Rice,Kharif,Reddish-brown pustules,Anthracnose,Streptocycline
+crop,Tamil Nadu,Maize,Kharif,Spots on leaves,Blast,Trichoderma viride
+crop,Punjab,Cotton,Kharif,Spots on leaves,Leaf Rust,Pyraclostrobin
+crop,Tamil Nadu,Maize,Rabi,Spots on leaves,Blight,Pencycuron
+crop,Haryana,Maize,Rabi,Reddish-brown pustules,Blight,Fludioxonil
+crop,Punjab,Maize,Rabi,Spots on leaves,Blight,Hexaconazole
+crop,Gujarat,Maize,Rabi,Spots on leaves,Powdery Mildew,Azoxystrobin
+crop,Punjab,Cotton,Kharif,Spots on leaves,Leaf Rust,Hexaconazole
+crop,Tamil Nadu,Wheat,Kharif,Yellowing leaves,Leaf Spot,Hexaconazole
+crop,Haryana,Wheat,Rabi,Reddish-brown pustules,Leaf Spot,Zineb
+crop,Gujarat,Rice,Rabi,Yellowing leaves,Leaf Spot,Mancozeb
+crop,Gujarat,Maize,Rabi,Reddish-brown pustules,Leaf Spot,Triadimefon
+crop,Haryana,Maize,Kharif,Yellowing leaves,Leaf Rust,Vitavax
+crop,Gujarat,Cotton,Rabi,Reddish-brown pustules,Powdery Mildew,Azoxystrobin
+crop,Punjab,Wheat,Kharif,Stunted growth,Fusarium Wilt,Pyraclostrobin
+crop,Haryana,Cotton,Kharif,Spots on leaves,Leaf Spot,Mancozeb
+crop,Punjab,Cotton,Kharif,Stunted growth,Powdery Mildew,Cymoxanil
+crop,Tamil Nadu,Wheat,Rabi,Reddish-brown pustules,Blight,Propiconazole
+crop,Haryana,Maize,Kharif,Stunted growth,Blast,Tricyclazole
+crop,Haryana,Rice,Rabi,Reddish-brown pustules,Fusarium Wilt,Zineb
+crop,Punjab,Wheat,Kharif,Stunted growth,Blast,Isoprothiolane
+crop,Haryana,Maize,Rabi,Spots on leaves,Leaf Spot,Streptocycline
+crop,Punjab,Maize,Rabi,Spots on leaves,Fusarium Wilt,Sulfur spray
+crop,Gujarat,Wheat,Rabi,Reddish-brown pustules,Anthracnose,Thiophanate methyl
+crop,Gujarat,Maize,Kharif,Reddish-brown pustules,Leaf Rust,Fludioxonil
+crop,Tamil Nadu,Maize,Kharif,Stunted growth,Powdery Mildew,Triadimefon
+crop,Tamil Nadu,Rice,Rabi,Spots on leaves,Leaf Rust,Validamycin
+crop,Punjab,Rice,Rabi,Reddish-brown pustules,Fusarium Wilt,Copper oxychloride
+crop,Haryana,Cotton,Kharif,Yellowing leaves,Powdery Mildew,Copper oxychloride
+crop,Gujarat,Wheat,Rabi,Spots on leaves,Fusarium Wilt,Pyraclostrobin
+crop,Gujarat,Rice,Kharif,Reddish-brown pustules,Leaf Spot,Vitavax
+crop,Punjab,Rice,Rabi,Spots on leaves,Powdery Mildew,Validamycin
+crop,Tamil Nadu,Cotton,Rabi,Spots on leaves,Blight,Zineb
+crop,Haryana,Maize,Kharif,Yellowing leaves,Blast,Hexaconazole
+crop,Haryana,Wheat,Rabi,Reddish-brown pustules,Leaf Spot,Pyraclostrobin
+crop,Haryana,Rice,Rabi,Yellowing leaves,Leaf Spot,Myclobutanil
+crop,Haryana,Cotton,Kharif,Stunted growth,Blast,Trichoderma viride
+crop,Haryana,Cotton,Rabi,Spots on leaves,Leaf Rust,Copper oxychloride
+crop,Tamil Nadu,Cotton,Rabi,Reddish-brown pustules,Leaf Rust,Cymoxanil
+crop,Gujarat,Wheat,Rabi,Spots on leaves,Blast,Propiconazole
+crop,Gujarat,Wheat,Rabi,Stunted growth,Leaf Rust,Streptocycline
+crop,Punjab,Maize,Rabi,Spots on leaves,Blast,Isoprothiolane
+crop,Haryana,Rice,Kharif,Reddish-brown pustules,Powdery Mildew,Thiram
+crop,Haryana,Wheat,Rabi,Reddish-brown pustules,Leaf Rust,Difenoconazole
+crop,Punjab,Rice,Rabi,Reddish-brown pustules,Blight,Trichoderma viride
+crop,Haryana,Wheat,Kharif,Stunted growth,Anthracnose,Chlorothalonil
+crop,Haryana,Maize,Kharif,Stunted growth,Leaf Spot,Propiconazole
+crop,Punjab,Wheat,Rabi,Stunted growth,Leaf Rust,Tricyclazole
+crop,Haryana,Rice,Rabi,Stunted growth,Leaf Spot,Mancozeb
+crop,Gujarat,Maize,Rabi,Stunted growth,Powdery Mildew,Thiophanate methyl
+crop,Haryana,Maize,Kharif,Reddish-brown pustules,Blast,Zineb
+crop,Punjab,Rice,Kharif,Yellowing leaves,Blast,Propiconazole
+crop,Punjab,Wheat,Rabi,Stunted growth,Blight,Fludioxonil
+crop,Gujarat,Rice,Kharif,Yellowing leaves,Blight,Metalaxyl
+crop,Tamil Nadu,Cotton,Kharif,Stunted growth,Leaf Rust,Copper oxychloride
+crop,Haryana,Cotton,Kharif,Stunted growth,Fusarium Wilt,Carbendazim
+crop,Gujarat,Rice,Rabi,Stunted growth,Leaf Spot,Trichoderma viride
+crop,Gujarat,Maize,Rabi,Yellowing leaves,Blast,Fludioxonil
+crop,Tamil Nadu,Cotton,Rabi,Yellowing leaves,Fusarium Wilt,Plantomycin
+crop,Punjab,Rice,Kharif,Stunted growth,Anthracnose,Chlorothalonil
+crop,Tamil Nadu,Wheat,Kharif,Stunted growth,Fusarium Wilt,Triadimefon
+crop,Punjab,Rice,Rabi,Reddish-brown pustules,Leaf Rust,Zineb
+crop,Gujarat,Wheat,Rabi,Spots on leaves,Leaf Rust,Propiconazole
+crop,Gujarat,Maize,Kharif,Yellowing leaves,Leaf Rust,Myclobutanil
+crop,Gujarat,Rice,Kharif,Reddish-brown pustules,Leaf Rust,Trichoderma viride
+crop,Haryana,Wheat,Rabi,Yellowing leaves,Blight,Validamycin
+crop,Punjab,Cotton,Kharif,Reddish-brown pustules,Leaf Spot,Mancozeb
+crop,Haryana,Wheat,Rabi,Reddish-brown pustules,Leaf Spot,Difenoconazole
+crop,Punjab,Rice,Rabi,Stunted growth,Blight,Metalaxyl
+crop,Tamil Nadu,Wheat,Kharif,Yellowing leaves,Blight,Tricyclazole
+crop,Gujarat,Rice,Kharif,Spots on leaves,Blight,Sulfur spray
+crop,Punjab,Maize,Kharif,Reddish-brown pustules,Blight,Pencycuron
+crop,Tamil Nadu,Rice,Rabi,Stunted growth,Blight,Triadimefon
+crop,Tamil Nadu,Cotton,Kharif,Reddish-brown pustules,Leaf Spot,Metalaxyl
+crop,Gujarat,Cotton,Kharif,Reddish-brown pustules,Leaf Rust,Hexaconazole
+crop,Haryana,Wheat,Kharif,Stunted growth,Leaf Spot,Difenoconazole
+crop,Punjab,Rice,Kharif,Reddish-brown pustules,Anthracnose,Zineb
+crop,Punjab,Rice,Kharif,Stunted growth,Blight,Difenoconazole
+crop,Gujarat,Rice,Kharif,Stunted growth,Leaf Rust,Validamycin
+crop,Punjab,Maize,Kharif,Stunted growth,Powdery Mildew,Azoxystrobin
+crop,Gujarat,Cotton,Kharif,Stunted growth,Fusarium Wilt,Plantomycin
+crop,Gujarat,Cotton,Kharif,Yellowing leaves,Powdery Mildew,Propiconazole
+crop,Punjab,Maize,Kharif,Stunted growth,Anthracnose,Vitavax
+crop,Punjab,Wheat,Rabi,Spots on leaves,Leaf Spot,Pencycuron
+crop,Gujarat,Wheat,Kharif,Reddish-brown pustules,Powdery Mildew,Thiophanate methyl
+crop,Gujarat,Maize,Kharif,Spots on leaves,Fusarium Wilt,Thiram
+crop,Punjab,Wheat,Rabi,Stunted growth,Blast,Trichoderma viride
+crop,Punjab,Cotton,Kharif,Reddish-brown pustules,Fusarium Wilt,Thiram
+crop,Haryana,Cotton,Rabi,Yellowing leaves,Leaf Spot,Pencycuron
+crop,Haryana,Rice,Kharif,Spots on leaves,Powdery Mildew,Azoxystrobin
+crop,Tamil Nadu,Maize,Kharif,Stunted growth,Powdery Mildew,Propiconazole
+crop,Tamil Nadu,Wheat,Rabi,Reddish-brown pustules,Blast,Myclobutanil
+crop,Tamil Nadu,Wheat,Kharif,Reddish-brown pustules,Anthracnose,Validamycin
+crop,Haryana,Rice,Kharif,Spots on leaves,Leaf Spot,Trichoderma viride
+crop,Punjab,Cotton,Kharif,Yellowing leaves,Fusarium Wilt,Carbendazim
+crop,Tamil Nadu,Maize,Kharif,Reddish-brown pustules,Blight,Difenoconazole
+crop,Punjab,Maize,Rabi,Spots on leaves,Fusarium Wilt,Vitavax
+crop,Gujarat,Rice,Rabi,Stunted growth,Fusarium Wilt,Cymoxanil
+crop,Gujarat,Rice,Kharif,Reddish-brown pustules,Blast,Sulfur spray
+crop,Punjab,Cotton,Rabi,Yellowing leaves,Blight,Thiophanate methyl
+crop,Haryana,Cotton,Kharif,Stunted growth,Blight,Thiram
+crop,Punjab,Cotton,Rabi,Stunted growth,Fusarium Wilt,Tricyclazole
+crop,Haryana,Maize,Kharif,Spots on leaves,Fusarium Wilt,Pyraclostrobin
+crop,Gujarat,Rice,Rabi,Spots on leaves,Blast,Isoprothiolane
+crop,Tamil Nadu,Maize,Kharif,Stunted growth,Leaf Spot,Myclobutanil
+crop,Tamil Nadu,Cotton,Rabi,Stunted growth,Blight,Trichoderma viride
+crop,Punjab,Maize,Kharif,Reddish-brown pustules,Blast,Difenoconazole
+crop,Punjab,Cotton,Kharif,Stunted growth,Fusarium Wilt,Cymoxanil
+crop,Punjab,Maize,Rabi,Stunted growth,Powdery Mildew,Hexaconazole
+crop,Tamil Nadu,Wheat,Kharif,Yellowing leaves,Powdery Mildew,Cymoxanil
+crop,Gujarat,Cotton,Kharif,Yellowing leaves,Blight,Myclobutanil
+crop,Punjab,Rice,Kharif,Stunted growth,Anthracnose,Chlorothalonil
+crop,Gujarat,Maize,Rabi,Yellowing leaves,Leaf Spot,Plantomycin
+crop,Haryana,Cotton,Kharif,Reddish-brown pustules,Blight,Metalaxyl
+crop,Tamil Nadu,Wheat,Rabi,Spots on leaves,Leaf Rust,Vitavax
+crop,Gujarat,Maize,Rabi,Yellowing leaves,Blast,Triadimefon
+crop,Gujarat,Rice,Kharif,Yellowing leaves,Leaf Rust,Copper oxychloride
+crop,Haryana,Cotton,Kharif,Reddish-brown pustules,Fusarium Wilt,Vitavax
+crop,Punjab,Rice,Kharif,Spots on leaves,Leaf Rust,Tebuconazole
+crop,Haryana,Maize,Kharif,Yellowing leaves,Blight,Copper oxychloride
+crop,Gujarat,Rice,Kharif,Spots on leaves,Fusarium Wilt,Carbendazim
+crop,Gujarat,Wheat,Kharif,Stunted growth,Blast,Thiram
+crop,Punjab,Cotton,Rabi,Reddish-brown pustules,Powdery Mildew,Azoxystrobin
+crop,Haryana,Wheat,Kharif,Yellowing leaves,Anthracnose,Chlorothalonil
+crop,Haryana,Cotton,Rabi,Reddish-brown pustules,Powdery Mildew,Sulfur spray
+crop,Haryana,Maize,Rabi,Yellowing leaves,Anthracnose,Myclobutanil
+crop,Gujarat,Cotton,Kharif,Yellowing leaves,Leaf Spot,Thiophanate methyl
+crop,Tamil Nadu,Wheat,Rabi,Yellowing leaves,Anthracnose,Chlorothalonil

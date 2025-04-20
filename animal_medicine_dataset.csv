@@ -1,0 +1,501 @@
+type,region,animal,age_group,symptom,disease,recommended_medicine
+animal,Haryana,Cow,Young,Lameness,Pneumonia,Ceftiofur
+animal,Tamil Nadu,Poultry,Senior,Lameness,FMD,Ecthyma Vaccine
+animal,Punjab,Buffalo,Chick,Lameness,Bloat,Ecthyma Vaccine
+animal,Haryana,Goat,Young,Swollen udder,FMD,Antitoxin
+animal,Tamil Nadu,Cow,Senior,Fever,Parasitic Infection,PPR Vaccine
+animal,Tamil Nadu,Buffalo,Senior,Fever,Parasitic Infection,Toltrazuril
+animal,West Bengal,Cow,Adult,Fever,Bloat,HS Vaccine
+animal,Punjab,Cow,Adult,Lameness,Parasitic Infection,Toltrazuril
+animal,West Bengal,Poultry,Young,Fever,Mastitis,Pirlimycin
+animal,Haryana,Cow,Senior,Swollen udder,Coccidiosis,Formaldehyde solution
+animal,Haryana,Poultry,Young,Fever,Bloat,Poloxalene
+animal,Tamil Nadu,Goat,Chick,Swollen udder,Coccidiosis,Diclazuril
+animal,Haryana,Goat,Adult,Swollen udder,Mastitis,Antipyretics
+animal,Haryana,Buffalo,Young,Fever,Foot Rot,Diclazuril
+animal,Tamil Nadu,Poultry,Chick,Fever,Foot Rot,Amoxicillin-clavulanic acid
+animal,Haryana,Buffalo,Chick,Lameness,Pneumonia,HS Vaccine
+animal,Tamil Nadu,Cow,Adult,Swollen udder,FMD,FMD Vaccine
+animal,Punjab,Cow,Young,Swollen udder,Mastitis,ND Vaccine
+animal,Haryana,Goat,Young,Swollen udder,Foot Rot,NSAIDs
+animal,Punjab,Buffalo,Chick,Lameness,Parasitic Infection,Antipyretics
+animal,Haryana,Goat,Chick,Swollen udder,Parasitic Infection,Ecthyma Vaccine
+animal,Punjab,Goat,Senior,Fever,FMD,Brucella Vaccine
+animal,Tamil Nadu,Goat,Young,Lameness,Mastitis,Mineral oil
+animal,West Bengal,Buffalo,Senior,Diarrhea,Mastitis,Pirlimycin
+animal,West Bengal,Poultry,Senior,Fever,Bloat,Mineral oil
+animal,Punjab,Poultry,Young,Swollen udder,Pneumonia,Streptomycin
+animal,West Bengal,Poultry,Adult,Fever,Mastitis,Sheep Pox Vaccine
+animal,Tamil Nadu,Goat,Adult,Diarrhea,Bloat,Streptomycin
+animal,Haryana,Goat,Adult,Swollen udder,Bloat,Poloxalene
+animal,Haryana,Buffalo,Chick,Diarrhea,Coccidiosis,Amprolium
+animal,Tamil Nadu,Buffalo,Senior,Diarrhea,Foot Rot,FMD Vaccine
+animal,Tamil Nadu,Poultry,Young,Swollen udder,Foot Rot,Formaldehyde solution
+animal,Haryana,Poultry,Chick,Fever,Foot Rot,Supportive therapy
+animal,Punjab,Buffalo,Adult,Swollen udder,FMD,AI Vaccine
+animal,Punjab,Goat,Senior,Diarrhea,Coccidiosis,Sheep Pox Vaccine
+animal,Haryana,Cow,Chick,Diarrhea,Coccidiosis,Diclazuril
+animal,Punjab,Goat,Adult,Swollen udder,Parasitic Infection,Toltrazuril
+animal,Haryana,Poultry,Chick,Fever,Mastitis,Pirlimycin
+animal,Tamil Nadu,Cow,Adult,Swollen udder,Coccidiosis,Vitamins
+animal,West Bengal,Buffalo,Senior,Fever,Pneumonia,HS Vaccine
+animal,Haryana,Cow,Senior,Lameness,Parasitic Infection,Bluetongue Vaccine
+animal,Tamil Nadu,Poultry,Young,Fever,Bloat,Mineral oil
+animal,Haryana,Buffalo,Adult,Lameness,FMD,FMD Vaccine
+animal,Haryana,Goat,Chick,Lameness,Coccidiosis,Antitoxin
+animal,Punjab,Cow,Young,Lameness,Coccidiosis,Vitamins
+animal,Tamil Nadu,Buffalo,Adult,Fever,Foot Rot,Ecthyma Vaccine
+animal,Punjab,Cow,Adult,Diarrhea,Mastitis,AI Vaccine
+animal,Punjab,Poultry,Senior,Swollen udder,FMD,FMD Vaccine
+animal,West Bengal,Poultry,Adult,Lameness,FMD,HS Vaccine
+animal,West Bengal,Cow,Senior,Swollen udder,Parasitic Infection,AI Vaccine
+animal,West Bengal,Goat,Senior,Fever,Foot Rot,Zinc sulfate
+animal,Punjab,Buffalo,Adult,Lameness,Mastitis,Ecthyma Vaccine
+animal,Haryana,Goat,Adult,Lameness,Coccidiosis,Zinc sulfate
+animal,Haryana,Buffalo,Senior,Diarrhea,Coccidiosis,BQ Vaccine
+animal,Tamil Nadu,Buffalo,Young,Diarrhea,Parasitic Infection,AI Vaccine
+animal,Tamil Nadu,Goat,Young,Fever,Foot Rot,Brucella Vaccine
+animal,Haryana,Cow,Senior,Swollen udder,Bloat,Zinc sulfate
+animal,Tamil Nadu,Cow,Senior,Swollen udder,Pneumonia,Sheep Pox Vaccine
+animal,Tamil Nadu,Cow,Senior,Diarrhea,Parasitic Infection,Antitoxin
+animal,Tamil Nadu,Poultry,Young,Fever,Mastitis,Pirlimycin
+animal,Haryana,Poultry,Adult,Diarrhea,Foot Rot,HS Vaccine
+animal,Haryana,Buffalo,Senior,Lameness,Mastitis,AI Vaccine
+animal,Punjab,Poultry,Senior,Lameness,Pneumonia,Supportive therapy
+animal,Punjab,Cow,Adult,Fever,Coccidiosis,Amprolium
+animal,Tamil Nadu,Cow,Young,Swollen udder,FMD,Antitoxin
+animal,Tamil Nadu,Goat,Chick,Diarrhea,Mastitis,Streptomycin
+animal,Tamil Nadu,Buffalo,Adult,Swollen udder,FMD,FMD Vaccine
+animal,Punjab,Goat,Senior,Diarrhea,Parasitic Infection,Simethicone
+animal,West Bengal,Cow,Adult,Swollen udder,Parasitic Infection,Simethicone
+animal,Haryana,Poultry,Chick,Swollen udder,Coccidiosis,Mineral oil
+animal,West Bengal,Poultry,Young,Fever,FMD,FMD Vaccine
+animal,Tamil Nadu,Goat,Chick,Fever,FMD,NSAIDs
+animal,Tamil Nadu,Poultry,Senior,Diarrhea,FMD,Simethicone
+animal,West Bengal,Cow,Adult,Diarrhea,Parasitic Infection,Supportive therapy
+animal,Punjab,Poultry,Senior,Swollen udder,FMD,ND Vaccine
+animal,Punjab,Cow,Young,Diarrhea,Coccidiosis,NSAIDs
+animal,Punjab,Buffalo,Chick,Diarrhea,Coccidiosis,Ceftiofur
+animal,Haryana,Cow,Chick,Swollen udder,Pneumonia,Mineral oil
+animal,West Bengal,Goat,Chick,Fever,Parasitic Infection,BQ Vaccine
+animal,Haryana,Goat,Senior,Lameness,Bloat,Diclazuril
+animal,Haryana,Buffalo,Senior,Fever,FMD,Enterotoxemia Vaccine
+animal,Haryana,Goat,Young,Swollen udder,Pneumonia,Formaldehyde solution
+animal,Punjab,Poultry,Adult,Swollen udder,Pneumonia,Antibiotics
+animal,Punjab,Buffalo,Senior,Lameness,Mastitis,Supportive therapy
+animal,West Bengal,Cow,Senior,Lameness,Pneumonia,Antibiotics
+animal,West Bengal,Goat,Chick,Diarrhea,Pneumonia,Zinc sulfate
+animal,Haryana,Buffalo,Adult,Diarrhea,FMD,Enrofloxacin
+animal,Punjab,Goat,Adult,Swollen udder,Parasitic Infection,Simethicone
+animal,Punjab,Cow,Adult,Diarrhea,Coccidiosis,AI Vaccine
+animal,Tamil Nadu,Poultry,Chick,Swollen udder,Parasitic Infection,PPR Vaccine
+animal,Punjab,Cow,Adult,Lameness,Parasitic Infection,Formaldehyde solution
+animal,West Bengal,Cow,Senior,Diarrhea,FMD,FMD Vaccine
+animal,Haryana,Buffalo,Senior,Swollen udder,Coccidiosis,Amprolium
+animal,Haryana,Cow,Senior,Swollen udder,Foot Rot,Simethicone
+animal,Punjab,Buffalo,Adult,Lameness,Bloat,Amoxicillin-clavulanic acid
+animal,Tamil Nadu,Goat,Young,Fever,FMD,ND Vaccine
+animal,Tamil Nadu,Cow,Young,Fever,Mastitis,PPR Vaccine
+animal,Haryana,Goat,Adult,Diarrhea,Bloat,Sheep Pox Vaccine
+animal,Punjab,Poultry,Senior,Diarrhea,Mastitis,Enterotoxemia Vaccine
+animal,Haryana,Poultry,Young,Fever,FMD,Brucella Vaccine
+animal,West Bengal,Buffalo,Senior,Swollen udder,Parasitic Infection,Oseltamivir
+animal,Punjab,Cow,Adult,Fever,Foot Rot,Oxytetracycline
+animal,Tamil Nadu,Cow,Chick,Lameness,Coccidiosis,Simethicone
+animal,Tamil Nadu,Cow,Chick,Diarrhea,Bloat,Poloxalene
+animal,West Bengal,Poultry,Senior,Diarrhea,Foot Rot,Supportive therapy
+animal,West Bengal,Goat,Adult,Swollen udder,Mastitis,Vitamins
+animal,Punjab,Buffalo,Senior,Diarrhea,Bloat,PPR Vaccine
+animal,Haryana,Cow,Young,Lameness,Parasitic Infection,Toltrazuril
+animal,Tamil Nadu,Poultry,Senior,Swollen udder,Parasitic Infection,Penicillin
+animal,Tamil Nadu,Poultry,Senior,Swollen udder,FMD,Ceftiofur
+animal,Haryana,Buffalo,Young,Fever,Foot Rot,Oxytetracycline
+animal,West Bengal,Goat,Chick,Diarrhea,Mastitis,Pirlimycin
+animal,Punjab,Goat,Chick,Lameness,FMD,FMD Vaccine
+animal,Tamil Nadu,Cow,Young,Swollen udder,Foot Rot,Streptomycin
+animal,Haryana,Cow,Young,Fever,Mastitis,Supportive therapy
+animal,Punjab,Goat,Chick,Swollen udder,Bloat,Ceftiofur
+animal,Haryana,Buffalo,Senior,Diarrhea,Pneumonia,AI Vaccine
+animal,Punjab,Cow,Senior,Lameness,Coccidiosis,Brucella Vaccine
+animal,Haryana,Poultry,Senior,Diarrhea,Parasitic Infection,Penicillin
+animal,West Bengal,Cow,Adult,Fever,Foot Rot,Antipyretics
+animal,Tamil Nadu,Poultry,Young,Diarrhea,Pneumonia,Mineral oil
+animal,Tamil Nadu,Goat,Chick,Diarrhea,Mastitis,ND Vaccine
+animal,Haryana,Buffalo,Adult,Fever,Foot Rot,ND Vaccine
+animal,Haryana,Buffalo,Chick,Fever,Foot Rot,PPR Vaccine
+animal,Tamil Nadu,Goat,Young,Swollen udder,Bloat,Penicillin
+animal,West Bengal,Poultry,Chick,Lameness,Foot Rot,Oseltamivir
+animal,Punjab,Cow,Chick,Lameness,Mastitis,Oseltamivir
+animal,Tamil Nadu,Buffalo,Chick,Diarrhea,Parasitic Infection,Simethicone
+animal,Tamil Nadu,Poultry,Chick,Lameness,Mastitis,Antibiotics
+animal,Punjab,Buffalo,Young,Swollen udder,Foot Rot,BQ Vaccine
+animal,West Bengal,Poultry,Young,Lameness,Coccidiosis,Bluetongue Vaccine
+animal,Punjab,Goat,Senior,Swollen udder,FMD,Vitamins
+animal,West Bengal,Goat,Chick,Swollen udder,Coccidiosis,Amprolium
+animal,West Bengal,Cow,Senior,Diarrhea,Coccidiosis,Topical antiseptics
+animal,Punjab,Buffalo,Adult,Lameness,Foot Rot,Oseltamivir
+animal,Haryana,Goat,Young,Swollen udder,Mastitis,Antitoxin
+animal,West Bengal,Goat,Young,Swollen udder,Foot Rot,Ecthyma Vaccine
+animal,Punjab,Goat,Senior,Lameness,Foot Rot,Oxytetracycline
+animal,Haryana,Goat,Adult,Lameness,Mastitis,Vitamins
+animal,West Bengal,Cow,Adult,Lameness,Foot Rot,Diclazuril
+animal,Haryana,Cow,Senior,Fever,Coccidiosis,Oseltamivir
+animal,West Bengal,Goat,Chick,Swollen udder,Bloat,Simethicone
+animal,Haryana,Cow,Chick,Swollen udder,Coccidiosis,PPR Vaccine
+animal,West Bengal,Cow,Young,Swollen udder,Foot Rot,Amoxicillin-clavulanic acid
+animal,Tamil Nadu,Poultry,Young,Swollen udder,Coccidiosis,Amprolium
+animal,Tamil Nadu,Poultry,Adult,Diarrhea,Foot Rot,Simethicone
+animal,Haryana,Cow,Adult,Fever,Bloat,Mineral oil
+animal,Haryana,Poultry,Young,Diarrhea,Parasitic Infection,Enterotoxemia Vaccine
+animal,Tamil Nadu,Poultry,Senior,Lameness,Bloat,Poloxalene
+animal,Haryana,Cow,Adult,Diarrhea,Foot Rot,Oxytetracycline
+animal,Punjab,Goat,Adult,Swollen udder,FMD,Penicillin
+animal,Punjab,Goat,Adult,Lameness,Foot Rot,AI Vaccine
+animal,West Bengal,Poultry,Senior,Fever,FMD,Streptomycin
+animal,Tamil Nadu,Buffalo,Young,Swollen udder,Pneumonia,Antibiotics
+animal,West Bengal,Buffalo,Chick,Fever,Mastitis,Brucella Vaccine
+animal,Haryana,Buffalo,Adult,Fever,Mastitis,Simethicone
+animal,West Bengal,Cow,Young,Swollen udder,Coccidiosis,BQ Vaccine
+animal,Punjab,Buffalo,Senior,Diarrhea,Bloat,Antipyretics
+animal,Tamil Nadu,Goat,Senior,Fever,Mastitis,Vitamins
+animal,Haryana,Buffalo,Chick,Swollen udder,Coccidiosis,Amprolium
+animal,West Bengal,Buffalo,Senior,Lameness,Bloat,Antipyretics
+animal,Tamil Nadu,Poultry,Senior,Swollen udder,Foot Rot,NSAIDs
+animal,Punjab,Cow,Young,Fever,Foot Rot,ND Vaccine
+animal,Punjab,Goat,Young,Fever,Bloat,PPR Vaccine
+animal,West Bengal,Cow,Senior,Diarrhea,Parasitic Infection,Enterotoxemia Vaccine
+animal,Tamil Nadu,Goat,Chick,Fever,Mastitis,Enrofloxacin
+animal,Punjab,Goat,Chick,Fever,FMD,Penicillin
+animal,Punjab,Goat,Adult,Swollen udder,Coccidiosis,BQ Vaccine
+animal,Tamil Nadu,Cow,Chick,Swollen udder,Pneumonia,Streptomycin
+animal,West Bengal,Cow,Chick,Lameness,Parasitic Infection,Toltrazuril
+animal,Haryana,Goat,Senior,Fever,Bloat,BQ Vaccine
+animal,Tamil Nadu,Cow,Chick,Lameness,Parasitic Infection,Penicillin
+animal,West Bengal,Buffalo,Senior,Swollen udder,Bloat,Bluetongue Vaccine
+animal,Haryana,Buffalo,Chick,Diarrhea,Mastitis,Pirlimycin
+animal,Punjab,Goat,Senior,Fever,Bloat,Sheep Pox Vaccine
+animal,Punjab,Buffalo,Senior,Swollen udder,Foot Rot,Oxytetracycline
+animal,Haryana,Cow,Chick,Fever,Pneumonia,ND Vaccine
+animal,Haryana,Goat,Chick,Swollen udder,Bloat,Diclazuril
+animal,Haryana,Goat,Chick,Fever,Parasitic Infection,Enterotoxemia Vaccine
+animal,Punjab,Cow,Chick,Lameness,Parasitic Infection,Oseltamivir
+animal,Punjab,Goat,Adult,Diarrhea,Pneumonia,BQ Vaccine
+animal,Haryana,Poultry,Young,Diarrhea,FMD,Simethicone
+animal,Haryana,Poultry,Chick,Swollen udder,Coccidiosis,Amprolium
+animal,Tamil Nadu,Poultry,Adult,Fever,Mastitis,AI Vaccine
+animal,Punjab,Goat,Adult,Swollen udder,Bloat,Topical antiseptics
+animal,Tamil Nadu,Cow,Senior,Diarrhea,Bloat,BQ Vaccine
+animal,Punjab,Buffalo,Adult,Swollen udder,Parasitic Infection,Ceftiofur
+animal,Haryana,Poultry,Adult,Swollen udder,FMD,HS Vaccine
+animal,Haryana,Goat,Adult,Diarrhea,Bloat,Mineral oil
+animal,West Bengal,Poultry,Adult,Swollen udder,Coccidiosis,Vitamins
+animal,Haryana,Poultry,Senior,Diarrhea,FMD,AI Vaccine
+animal,West Bengal,Goat,Adult,Fever,Foot Rot,NSAIDs
+animal,Tamil Nadu,Buffalo,Chick,Lameness,FMD,Antipyretics
+animal,Tamil Nadu,Poultry,Senior,Fever,FMD,Streptomycin
+animal,Punjab,Cow,Chick,Fever,Pneumonia,Antibiotics
+animal,Punjab,Poultry,Young,Lameness,Parasitic Infection,Topical antiseptics
+animal,West Bengal,Goat,Chick,Swollen udder,Mastitis,Antitoxin
+animal,Punjab,Goat,Young,Lameness,Pneumonia,Enrofloxacin
+animal,Tamil Nadu,Poultry,Chick,Diarrhea,Parasitic Infection,Formaldehyde solution
+animal,Punjab,Goat,Adult,Lameness,Coccidiosis,Sheep Pox Vaccine
+animal,Haryana,Poultry,Chick,Swollen udder,Pneumonia,Streptomycin
+animal,Haryana,Poultry,Chick,Swollen udder,Bloat,Enrofloxacin
+animal,Haryana,Goat,Adult,Lameness,FMD,NSAIDs
+animal,West Bengal,Cow,Senior,Swollen udder,Coccidiosis,Sheep Pox Vaccine
+animal,Haryana,Cow,Young,Fever,Pneumonia,Topical antiseptics
+animal,Tamil Nadu,Cow,Young,Swollen udder,Mastitis,Ceftiofur
+animal,Tamil Nadu,Goat,Senior,Swollen udder,FMD,Ecthyma Vaccine
+animal,Punjab,Goat,Chick,Lameness,Foot Rot,Oxytetracycline
+animal,West Bengal,Goat,Adult,Fever,Coccidiosis,Brucella Vaccine
+animal,Tamil Nadu,Poultry,Chick,Diarrhea,Foot Rot,Ceftiofur
+animal,Tamil Nadu,Cow,Adult,Fever,Bloat,Amoxicillin-clavulanic acid
+animal,West Bengal,Poultry,Chick,Diarrhea,Bloat,Enterotoxemia Vaccine
+animal,Punjab,Cow,Senior,Diarrhea,Coccidiosis,Ecthyma Vaccine
+animal,West Bengal,Buffalo,Senior,Swollen udder,Bloat,BQ Vaccine
+animal,West Bengal,Buffalo,Young,Diarrhea,FMD,FMD Vaccine
+animal,Punjab,Poultry,Chick,Fever,Foot Rot,Enrofloxacin
+animal,Tamil Nadu,Buffalo,Young,Diarrhea,FMD,Sheep Pox Vaccine
+animal,Punjab,Goat,Adult,Diarrhea,Mastitis,Vitamins
+animal,West Bengal,Cow,Senior,Diarrhea,Bloat,Mineral oil
+animal,Punjab,Buffalo,Young,Lameness,Coccidiosis,Amoxicillin-clavulanic acid
+animal,Punjab,Poultry,Senior,Fever,Pneumonia,Diclazuril
+animal,West Bengal,Poultry,Adult,Fever,Mastitis,Ecthyma Vaccine
+animal,West Bengal,Goat,Young,Swollen udder,Foot Rot,PPR Vaccine
+animal,Punjab,Cow,Young,Lameness,Bloat,Topical antiseptics
+animal,Tamil Nadu,Cow,Young,Diarrhea,Foot Rot,Pirlimycin
+animal,Punjab,Poultry,Chick,Lameness,FMD,Ceftiofur
+animal,Tamil Nadu,Poultry,Senior,Lameness,Mastitis,Brucella Vaccine
+animal,Haryana,Goat,Young,Lameness,FMD,Antitoxin
+animal,West Bengal,Buffalo,Adult,Swollen udder,FMD,PPR Vaccine
+animal,Haryana,Goat,Chick,Lameness,Pneumonia,Enrofloxacin
+animal,Haryana,Cow,Young,Swollen udder,FMD,Supportive therapy
+animal,Haryana,Buffalo,Young,Diarrhea,Pneumonia,Antibiotics
+animal,Haryana,Cow,Young,Swollen udder,Pneumonia,Antibiotics
+animal,Tamil Nadu,Cow,Adult,Lameness,Parasitic Infection,Enterotoxemia Vaccine
+animal,West Bengal,Poultry,Senior,Fever,Foot Rot,Vitamins
+animal,Punjab,Cow,Adult,Lameness,Pneumonia,Antibiotics
+animal,West Bengal,Goat,Young,Lameness,Foot Rot,NSAIDs
+animal,Punjab,Poultry,Senior,Diarrhea,Foot Rot,Oxytetracycline
+animal,Haryana,Buffalo,Senior,Lameness,Bloat,Zinc sulfate
+animal,Haryana,Cow,Adult,Fever,Parasitic Infection,Simethicone
+animal,Haryana,Poultry,Chick,Swollen udder,Parasitic Infection,Supportive therapy
+animal,Tamil Nadu,Cow,Young,Fever,Bloat,Penicillin
+animal,West Bengal,Buffalo,Adult,Fever,Foot Rot,Antitoxin
+animal,West Bengal,Buffalo,Adult,Diarrhea,Mastitis,Oseltamivir
+animal,Punjab,Cow,Adult,Diarrhea,Mastitis,Bluetongue Vaccine
+animal,Haryana,Buffalo,Senior,Swollen udder,Parasitic Infection,Toltrazuril
+animal,Tamil Nadu,Poultry,Adult,Lameness,Foot Rot,Oxytetracycline
+animal,West Bengal,Buffalo,Young,Diarrhea,Mastitis,Oseltamivir
+animal,Punjab,Goat,Adult,Lameness,FMD,Oseltamivir
+animal,Haryana,Cow,Senior,Fever,Pneumonia,Sheep Pox Vaccine
+animal,West Bengal,Poultry,Chick,Swollen udder,Parasitic Infection,Zinc sulfate
+animal,Tamil Nadu,Goat,Chick,Swollen udder,FMD,Mineral oil
+animal,Punjab,Buffalo,Adult,Fever,Parasitic Infection,Oseltamivir
+animal,West Bengal,Poultry,Adult,Fever,Coccidiosis,Amprolium
+animal,Haryana,Poultry,Adult,Swollen udder,Foot Rot,Enterotoxemia Vaccine
+animal,Punjab,Cow,Young,Diarrhea,Mastitis,Penicillin
+animal,Tamil Nadu,Goat,Adult,Diarrhea,Mastitis,HS Vaccine
+animal,Haryana,Poultry,Senior,Diarrhea,FMD,Antipyretics
+animal,West Bengal,Goat,Young,Lameness,Parasitic Infection,PPR Vaccine
+animal,Tamil Nadu,Goat,Senior,Fever,Pneumonia,Diclazuril
+animal,Haryana,Cow,Young,Fever,Coccidiosis,Amprolium
+animal,Tamil Nadu,Cow,Senior,Swollen udder,FMD,Formaldehyde solution
+animal,Tamil Nadu,Poultry,Chick,Diarrhea,Foot Rot,Oxytetracycline
+animal,Punjab,Buffalo,Young,Fever,Pneumonia,NSAIDs
+animal,West Bengal,Buffalo,Chick,Fever,Pneumonia,BQ Vaccine
+animal,Haryana,Cow,Chick,Diarrhea,Bloat,Poloxalene
+animal,Tamil Nadu,Buffalo,Young,Diarrhea,Bloat,Brucella Vaccine
+animal,West Bengal,Goat,Chick,Lameness,Coccidiosis,NSAIDs
+animal,Punjab,Goat,Young,Swollen udder,Bloat,Antipyretics
+animal,West Bengal,Cow,Senior,Fever,Mastitis,Vitamins
+animal,Haryana,Poultry,Chick,Lameness,Bloat,Diclazuril
+animal,Tamil Nadu,Poultry,Adult,Lameness,Bloat,Poloxalene
+animal,Punjab,Poultry,Young,Fever,Foot Rot,Oxytetracycline
+animal,West Bengal,Goat,Chick,Diarrhea,Bloat,Topical antiseptics
+animal,Tamil Nadu,Cow,Young,Swollen udder,Pneumonia,Enrofloxacin
+animal,West Bengal,Goat,Young,Fever,Foot Rot,Streptomycin
+animal,West Bengal,Cow,Adult,Lameness,Parasitic Infection,Toltrazuril
+animal,Punjab,Buffalo,Chick,Diarrhea,FMD,BQ Vaccine
+animal,Tamil Nadu,Buffalo,Senior,Diarrhea,Bloat,NSAIDs
+animal,Tamil Nadu,Goat,Chick,Swollen udder,Bloat,Diclazuril
+animal,Haryana,Poultry,Chick,Swollen udder,Mastitis,Pirlimycin
+animal,Punjab,Poultry,Young,Fever,Foot Rot,Oseltamivir
+animal,Punjab,Goat,Young,Lameness,Coccidiosis,Topical antiseptics
+animal,Haryana,Cow,Adult,Swollen udder,Pneumonia,Oseltamivir
+animal,Haryana,Buffalo,Chick,Lameness,Parasitic Infection,Antitoxin
+animal,Haryana,Goat,Adult,Fever,Bloat,Diclazuril
+animal,Tamil Nadu,Cow,Chick,Fever,FMD,Topical antiseptics
+animal,West Bengal,Goat,Chick,Lameness,Bloat,PPR Vaccine
+animal,West Bengal,Goat,Senior,Fever,Mastitis,Pirlimycin
+animal,Haryana,Goat,Adult,Diarrhea,Parasitic Infection,Amoxicillin-clavulanic acid
+animal,West Bengal,Goat,Senior,Fever,Coccidiosis,Diclazuril
+animal,Punjab,Goat,Senior,Fever,Parasitic Infection,Ceftiofur
+animal,West Bengal,Goat,Senior,Fever,Bloat,Poloxalene
+animal,Haryana,Cow,Adult,Fever,Coccidiosis,Supportive therapy
+animal,West Bengal,Buffalo,Chick,Diarrhea,Parasitic Infection,Bluetongue Vaccine
+animal,Punjab,Buffalo,Young,Fever,Pneumonia,Ceftiofur
+animal,Haryana,Goat,Young,Swollen udder,Parasitic Infection,Supportive therapy
+animal,Tamil Nadu,Goat,Chick,Lameness,Pneumonia,Ceftiofur
+animal,West Bengal,Goat,Senior,Fever,Pneumonia,Diclazuril
+animal,Haryana,Goat,Senior,Diarrhea,FMD,AI Vaccine
+animal,West Bengal,Cow,Adult,Fever,Pneumonia,Amoxicillin-clavulanic acid
+animal,Punjab,Buffalo,Chick,Lameness,Parasitic Infection,ND Vaccine
+animal,Tamil Nadu,Cow,Chick,Lameness,FMD,Ecthyma Vaccine
+animal,Tamil Nadu,Goat,Chick,Lameness,FMD,Ecthyma Vaccine
+animal,Tamil Nadu,Buffalo,Young,Swollen udder,Mastitis,Formaldehyde solution
+animal,Punjab,Poultry,Senior,Swollen udder,Coccidiosis,Amoxicillin-clavulanic acid
+animal,Tamil Nadu,Goat,Adult,Diarrhea,Parasitic Infection,Formaldehyde solution
+animal,Tamil Nadu,Buffalo,Chick,Fever,Bloat,Sheep Pox Vaccine
+animal,Tamil Nadu,Goat,Adult,Fever,Coccidiosis,Formaldehyde solution
+animal,West Bengal,Cow,Senior,Diarrhea,Foot Rot,Supportive therapy
+animal,Haryana,Goat,Young,Fever,Coccidiosis,NSAIDs
+animal,Haryana,Poultry,Senior,Lameness,FMD,Sheep Pox Vaccine
+animal,Tamil Nadu,Goat,Senior,Lameness,FMD,FMD Vaccine
+animal,Punjab,Cow,Adult,Lameness,Pneumonia,Mineral oil
+animal,Tamil Nadu,Buffalo,Senior,Diarrhea,Mastitis,Pirlimycin
+animal,Tamil Nadu,Cow,Adult,Swollen udder,Mastitis,Pirlimycin
+animal,Punjab,Goat,Young,Fever,Pneumonia,Bluetongue Vaccine
+animal,Tamil Nadu,Goat,Chick,Fever,Foot Rot,Formaldehyde solution
+animal,West Bengal,Cow,Adult,Swollen udder,Mastitis,Formaldehyde solution
+animal,Tamil Nadu,Cow,Chick,Lameness,Foot Rot,Enrofloxacin
+animal,Tamil Nadu,Buffalo,Senior,Fever,FMD,Antitoxin
+animal,Tamil Nadu,Goat,Senior,Swollen udder,Coccidiosis,Mineral oil
+animal,Punjab,Goat,Young,Swollen udder,Foot Rot,BQ Vaccine
+animal,West Bengal,Poultry,Young,Lameness,Pneumonia,Bluetongue Vaccine
+animal,Tamil Nadu,Goat,Senior,Swollen udder,FMD,FMD Vaccine
+animal,Haryana,Poultry,Adult,Swollen udder,Parasitic Infection,Ceftiofur
+animal,Haryana,Cow,Chick,Diarrhea,Foot Rot,Zinc sulfate
+animal,Haryana,Buffalo,Chick,Diarrhea,Coccidiosis,Amprolium
+animal,Punjab,Poultry,Chick,Fever,Pneumonia,AI Vaccine
+animal,West Bengal,Goat,Senior,Diarrhea,Parasitic Infection,Brucella Vaccine
+animal,West Bengal,Buffalo,Adult,Swollen udder,Foot Rot,Antitoxin
+animal,Tamil Nadu,Goat,Adult,Swollen udder,Mastitis,Zinc sulfate
+animal,Haryana,Cow,Young,Swollen udder,Mastitis,Vitamins
+animal,Tamil Nadu,Cow,Young,Fever,FMD,FMD Vaccine
+animal,Tamil Nadu,Cow,Young,Diarrhea,Foot Rot,Formaldehyde solution
+animal,Punjab,Buffalo,Adult,Lameness,Foot Rot,Oxytetracycline
+animal,Tamil Nadu,Goat,Chick,Fever,Coccidiosis,Antitoxin
+animal,West Bengal,Cow,Senior,Fever,Pneumonia,Antibiotics
+animal,Punjab,Poultry,Adult,Swollen udder,Bloat,Sheep Pox Vaccine
+animal,Haryana,Poultry,Senior,Diarrhea,Mastitis,ND Vaccine
+animal,Punjab,Cow,Chick,Diarrhea,Coccidiosis,Bluetongue Vaccine
+animal,Haryana,Goat,Adult,Swollen udder,Mastitis,Bluetongue Vaccine
+animal,Haryana,Poultry,Chick,Swollen udder,Parasitic Infection,Enrofloxacin
+animal,Haryana,Buffalo,Chick,Swollen udder,Coccidiosis,Diclazuril
+animal,Punjab,Poultry,Adult,Fever,Pneumonia,Antibiotics
+animal,Tamil Nadu,Buffalo,Chick,Diarrhea,Mastitis,Enterotoxemia Vaccine
+animal,Tamil Nadu,Poultry,Senior,Fever,Coccidiosis,Mineral oil
+animal,Tamil Nadu,Buffalo,Chick,Lameness,Coccidiosis,Zinc sulfate
+animal,Tamil Nadu,Poultry,Young,Swollen udder,Parasitic Infection,Brucella Vaccine
+animal,Haryana,Goat,Chick,Diarrhea,Pneumonia,NSAIDs
+animal,Tamil Nadu,Goat,Young,Diarrhea,Bloat,Brucella Vaccine
+animal,Tamil Nadu,Buffalo,Adult,Diarrhea,Parasitic Infection,NSAIDs
+animal,Tamil Nadu,Buffalo,Chick,Diarrhea,Mastitis,Enrofloxacin
+animal,Haryana,Cow,Senior,Diarrhea,Pneumonia,Streptomycin
+animal,Tamil Nadu,Buffalo,Chick,Diarrhea,Parasitic Infection,Zinc sulfate
+animal,Tamil Nadu,Poultry,Senior,Swollen udder,FMD,PPR Vaccine
+animal,Haryana,Poultry,Chick,Lameness,FMD,Antipyretics
+animal,West Bengal,Goat,Senior,Lameness,Mastitis,Pirlimycin
+animal,Tamil Nadu,Goat,Chick,Diarrhea,Parasitic Infection,ND Vaccine
+animal,West Bengal,Cow,Chick,Fever,Bloat,Zinc sulfate
+animal,Tamil Nadu,Poultry,Adult,Lameness,FMD,FMD Vaccine
+animal,Tamil Nadu,Poultry,Chick,Lameness,Bloat,Supportive therapy
+animal,Haryana,Cow,Young,Lameness,Bloat,Antipyretics
+animal,Punjab,Poultry,Adult,Fever,FMD,Bluetongue Vaccine
+animal,Tamil Nadu,Buffalo,Senior,Diarrhea,FMD,Simethicone
+animal,West Bengal,Poultry,Chick,Diarrhea,Coccidiosis,Amoxicillin-clavulanic acid
+animal,Punjab,Poultry,Senior,Lameness,Mastitis,Brucella Vaccine
+animal,Haryana,Buffalo,Senior,Diarrhea,Coccidiosis,AI Vaccine
+animal,Tamil Nadu,Goat,Chick,Diarrhea,Pneumonia,Antibiotics
+animal,West Bengal,Poultry,Chick,Diarrhea,Bloat,PPR Vaccine
+animal,Tamil Nadu,Cow,Chick,Diarrhea,FMD,AI Vaccine
+animal,Haryana,Goat,Young,Swollen udder,Parasitic Infection,Topical antiseptics
+animal,Haryana,Buffalo,Young,Diarrhea,Coccidiosis,Mineral oil
+animal,Tamil Nadu,Buffalo,Adult,Swollen udder,Foot Rot,Oseltamivir
+animal,Tamil Nadu,Buffalo,Chick,Fever,Coccidiosis,Zinc sulfate
+animal,West Bengal,Poultry,Senior,Diarrhea,Coccidiosis,Ceftiofur
+animal,West Bengal,Poultry,Chick,Fever,Mastitis,Brucella Vaccine
+animal,West Bengal,Poultry,Adult,Lameness,Mastitis,Amoxicillin-clavulanic acid
+animal,West Bengal,Poultry,Young,Diarrhea,Bloat,Poloxalene
+animal,Haryana,Poultry,Adult,Fever,Mastitis,Supportive therapy
+animal,West Bengal,Poultry,Adult,Swollen udder,FMD,Antipyretics
+animal,Tamil Nadu,Buffalo,Adult,Swollen udder,Bloat,HS Vaccine
+animal,West Bengal,Poultry,Senior,Diarrhea,Bloat,Penicillin
+animal,Punjab,Cow,Chick,Swollen udder,Pneumonia,Antibiotics
+animal,Tamil Nadu,Buffalo,Adult,Fever,Coccidiosis,Ceftiofur
+animal,Tamil Nadu,Poultry,Senior,Fever,FMD,Streptomycin
+animal,West Bengal,Cow,Chick,Fever,Coccidiosis,HS Vaccine
+animal,Punjab,Poultry,Chick,Fever,Bloat,Enrofloxacin
+animal,Tamil Nadu,Cow,Chick,Diarrhea,FMD,FMD Vaccine
+animal,West Bengal,Poultry,Chick,Fever,Coccidiosis,Penicillin
+animal,Punjab,Buffalo,Young,Fever,Parasitic Infection,Amoxicillin-clavulanic acid
+animal,Haryana,Buffalo,Adult,Diarrhea,Coccidiosis,Antipyretics
+animal,Haryana,Goat,Chick,Fever,Bloat,Poloxalene
+animal,West Bengal,Poultry,Young,Diarrhea,Coccidiosis,Ecthyma Vaccine
+animal,Tamil Nadu,Buffalo,Senior,Diarrhea,Foot Rot,BQ Vaccine
+animal,Tamil Nadu,Buffalo,Young,Swollen udder,Coccidiosis,ND Vaccine
+animal,Tamil Nadu,Poultry,Senior,Diarrhea,Pneumonia,Topical antiseptics
+animal,Punjab,Goat,Chick,Diarrhea,Bloat,Simethicone
+animal,Haryana,Poultry,Senior,Fever,Parasitic Infection,HS Vaccine
+animal,West Bengal,Goat,Adult,Lameness,FMD,Enterotoxemia Vaccine
+animal,West Bengal,Cow,Chick,Lameness,FMD,Enterotoxemia Vaccine
+animal,Tamil Nadu,Goat,Adult,Fever,Parasitic Infection,Toltrazuril
+animal,Tamil Nadu,Poultry,Senior,Lameness,Bloat,Poloxalene
+animal,Haryana,Poultry,Young,Swollen udder,Pneumonia,BQ Vaccine
+animal,Haryana,Cow,Young,Fever,Parasitic Infection,Toltrazuril
+animal,Tamil Nadu,Buffalo,Chick,Swollen udder,Pneumonia,Zinc sulfate
+animal,Tamil Nadu,Poultry,Adult,Fever,Foot Rot,Sheep Pox Vaccine
+animal,Punjab,Buffalo,Young,Diarrhea,Parasitic Infection,Toltrazuril
+animal,Punjab,Buffalo,Young,Fever,Parasitic Infection,Antipyretics
+animal,Haryana,Poultry,Young,Lameness,Bloat,Enrofloxacin
+animal,Tamil Nadu,Buffalo,Chick,Fever,Foot Rot,Formaldehyde solution
+animal,Haryana,Cow,Chick,Swollen udder,Parasitic Infection,Oseltamivir
+animal,Punjab,Poultry,Chick,Swollen udder,Pneumonia,HS Vaccine
+animal,Haryana,Cow,Chick,Fever,Parasitic Infection,Toltrazuril
+animal,Tamil Nadu,Buffalo,Senior,Swollen udder,Bloat,Poloxalene
+animal,Haryana,Poultry,Young,Lameness,Bloat,Brucella Vaccine
+animal,West Bengal,Buffalo,Young,Lameness,Parasitic Infection,Toltrazuril
+animal,Punjab,Poultry,Young,Fever,Coccidiosis,Enterotoxemia Vaccine
+animal,Tamil Nadu,Goat,Chick,Fever,FMD,Topical antiseptics
+animal,West Bengal,Cow,Young,Swollen udder,Mastitis,Pirlimycin
+animal,Punjab,Goat,Chick,Swollen udder,Bloat,Topical antiseptics
+animal,Tamil Nadu,Poultry,Adult,Swollen udder,Mastitis,Formaldehyde solution
+animal,Haryana,Goat,Chick,Fever,Parasitic Infection,HS Vaccine
+animal,Tamil Nadu,Goat,Adult,Fever,Bloat,Enrofloxacin
+animal,Tamil Nadu,Cow,Chick,Swollen udder,Coccidiosis,Vitamins
+animal,Tamil Nadu,Cow,Senior,Swollen udder,Pneumonia,Antibiotics
+animal,Haryana,Poultry,Adult,Lameness,Bloat,Penicillin
+animal,Tamil Nadu,Goat,Chick,Fever,Coccidiosis,Amprolium
+animal,West Bengal,Poultry,Adult,Swollen udder,Mastitis,NSAIDs
+animal,Punjab,Poultry,Adult,Diarrhea,Foot Rot,Oxytetracycline
+animal,Haryana,Buffalo,Adult,Diarrhea,Mastitis,Pirlimycin
+animal,Tamil Nadu,Cow,Senior,Fever,Mastitis,ND Vaccine
+animal,Tamil Nadu,Buffalo,Young,Lameness,Bloat,HS Vaccine
+animal,Punjab,Goat,Senior,Lameness,Foot Rot,Bluetongue Vaccine
+animal,Punjab,Buffalo,Young,Diarrhea,Bloat,Bluetongue Vaccine
+animal,Haryana,Buffalo,Adult,Fever,Pneumonia,Topical antiseptics
+animal,Punjab,Cow,Senior,Swollen udder,Coccidiosis,Amprolium
+animal,Haryana,Cow,Adult,Swollen udder,Foot Rot,Oxytetracycline
+animal,West Bengal,Cow,Adult,Lameness,Coccidiosis,Amprolium
+animal,Tamil Nadu,Buffalo,Adult,Diarrhea,Mastitis,Enterotoxemia Vaccine
+animal,Haryana,Cow,Senior,Diarrhea,Foot Rot,Supportive therapy
+animal,West Bengal,Buffalo,Senior,Fever,Coccidiosis,Zinc sulfate
+animal,Tamil Nadu,Poultry,Chick,Diarrhea,Parasitic Infection,Toltrazuril
+animal,West Bengal,Poultry,Young,Swollen udder,Foot Rot,Vitamins
+animal,West Bengal,Buffalo,Young,Swollen udder,Foot Rot,Penicillin
+animal,Punjab,Buffalo,Chick,Diarrhea,Coccidiosis,Amoxicillin-clavulanic acid
+animal,Haryana,Cow,Senior,Swollen udder,Foot Rot,Antipyretics
+animal,West Bengal,Cow,Senior,Lameness,FMD,Antipyretics
+animal,West Bengal,Poultry,Adult,Swollen udder,Mastitis,Ecthyma Vaccine
+animal,Haryana,Buffalo,Adult,Diarrhea,Coccidiosis,Mineral oil
+animal,Punjab,Goat,Adult,Diarrhea,Foot Rot,Amoxicillin-clavulanic acid
+animal,Haryana,Cow,Adult,Lameness,FMD,Bluetongue Vaccine
+animal,Haryana,Goat,Chick,Lameness,Parasitic Infection,NSAIDs
+animal,Haryana,Goat,Young,Lameness,Parasitic Infection,Topical antiseptics
+animal,Haryana,Goat,Young,Fever,Pneumonia,Penicillin
+animal,West Bengal,Poultry,Adult,Diarrhea,FMD,FMD Vaccine
+animal,West Bengal,Poultry,Adult,Lameness,Coccidiosis,Enterotoxemia Vaccine
+animal,Tamil Nadu,Cow,Young,Swollen udder,Coccidiosis,Vitamins
+animal,West Bengal,Cow,Adult,Swollen udder,Foot Rot,Oxytetracycline
+animal,Haryana,Cow,Adult,Diarrhea,FMD,Zinc sulfate
+animal,Haryana,Buffalo,Senior,Fever,Pneumonia,Antibiotics
+animal,Punjab,Cow,Senior,Fever,Foot Rot,PPR Vaccine
+animal,Tamil Nadu,Poultry,Senior,Diarrhea,Coccidiosis,Amprolium
+animal,Punjab,Cow,Young,Fever,Bloat,Penicillin
+animal,Punjab,Poultry,Young,Swollen udder,Parasitic Infection,Enrofloxacin
+animal,Haryana,Goat,Adult,Swollen udder,Parasitic Infection,HS Vaccine
+animal,West Bengal,Poultry,Senior,Lameness,Foot Rot,Brucella Vaccine
+animal,Punjab,Cow,Chick,Swollen udder,Coccidiosis,Amprolium
+animal,Haryana,Goat,Senior,Lameness,Foot Rot,Streptomycin
+animal,Punjab,Goat,Senior,Swollen udder,Coccidiosis,Streptomycin
+animal,Punjab,Cow,Chick,Fever,Bloat,Poloxalene
+animal,West Bengal,Cow,Young,Fever,Coccidiosis,AI Vaccine
+animal,Haryana,Poultry,Adult,Lameness,Coccidiosis,Bluetongue Vaccine
+animal,West Bengal,Cow,Young,Fever,Bloat,Vitamins
+animal,Tamil Nadu,Cow,Chick,Fever,Foot Rot,Penicillin
+animal,Haryana,Goat,Adult,Diarrhea,Pneumonia,HS Vaccine
+animal,Tamil Nadu,Poultry,Adult,Fever,Pneumonia,Antibiotics
+animal,Punjab,Buffalo,Senior,Swollen udder,Parasitic Infection,Toltrazuril
+animal,Haryana,Poultry,Chick,Diarrhea,Mastitis,Bluetongue Vaccine
+animal,West Bengal,Poultry,Chick,Diarrhea,Bloat,Amoxicillin-clavulanic acid
+animal,Tamil Nadu,Poultry,Adult,Lameness,Pneumonia,PPR Vaccine
+animal,Tamil Nadu,Goat,Senior,Lameness,Parasitic Infection,Amoxicillin-clavulanic acid
+animal,West Bengal,Buffalo,Young,Swollen udder,Foot Rot,Diclazuril
+animal,Tamil Nadu,Goat,Chick,Diarrhea,Coccidiosis,Streptomycin
+animal,Punjab,Buffalo,Senior,Swollen udder,Bloat,Antitoxin
+animal,Haryana,Cow,Adult,Swollen udder,Foot Rot,ND Vaccine
+animal,West Bengal,Goat,Chick,Lameness,Parasitic Infection,Supportive therapy
+animal,Haryana,Cow,Adult,Diarrhea,Coccidiosis,Streptomycin
+animal,West Bengal,Cow,Adult,Diarrhea,Coccidiosis,Sheep Pox Vaccine
+animal,Haryana,Poultry,Young,Lameness,Pneumonia,Ecthyma Vaccine
+animal,Haryana,Buffalo,Senior,Fever,Bloat,Poloxalene
+animal,Haryana,Poultry,Young,Diarrhea,Parasitic Infection,Toltrazuril
+animal,Tamil Nadu,Goat,Young,Diarrhea,Parasitic Infection,Topical antiseptics
+animal,Haryana,Goat,Chick,Fever,FMD,Antitoxin
+animal,Tamil Nadu,Goat,Senior,Lameness,Pneumonia,Simethicone
+animal,Tamil Nadu,Cow,Senior,Swollen udder,Bloat,Poloxalene
+animal,West Bengal,Goat,Senior,Lameness,FMD,Antitoxin
+animal,Haryana,Buffalo,Chick,Swollen udder,Foot Rot,Oxytetracycline
+animal,Tamil Nadu,Buffalo,Senior,Diarrhea,Bloat,BQ Vaccine
+animal,Punjab,Goat,Young,Diarrhea,Mastitis,Pirlimycin
