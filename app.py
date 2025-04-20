@@ -17,6 +17,10 @@ logger = logging.getLogger(__name__)
 app = Flask(__name__)
 CORS(app)
 
+@app.route("/ping")
+def ping():
+    return "pong", 200
+
 @app.route("/predict", methods=["POST"])
 def predict():
     
